@@ -27,10 +27,10 @@ a {
 }
 
 .container {
-  /* background-color: rebeccapurple; */
-  width: 1336px;
+  width: 1536px;
   margin: auto;
-  padding: 0 50px;
+  padding-left: 50px;
+  padding-right: 50px;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
