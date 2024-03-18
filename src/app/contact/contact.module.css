@@ -38,3 +38,9 @@
   color: var(--text);
   cursor: pointer;
 }
+
+@media (max-width: 768px) {
+  .imageContainer {
+    display: none;
+  }
+}

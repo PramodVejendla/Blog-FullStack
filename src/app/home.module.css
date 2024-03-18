@@ -41,6 +41,7 @@
 .imageContainer {
   flex: 1;
   position: relative;
+  height: 500px;
 }
 .heroImg {
   object-fit: contain;
